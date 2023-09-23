@@ -28,3 +28,11 @@ _Aditya Thakur: Flutter & Firebase_
 
 
 Sebastian Rohl
+
+**Workshop 2**
+
+- callchimp.ai
+- Anubhav Singh (Dynopii Inc.): Serverless Computing
+- 
+
+
