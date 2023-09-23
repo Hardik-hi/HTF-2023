@@ -33,6 +33,19 @@ Sebastian Rohl
 
 - callchimp.ai
 - Anubhav Singh (Dynopii Inc.): Serverless Computing
-- 
+- platform as a service => function as a service
+- Google CloudRun
+- Rapido, Grofers (Google AppEngine): good for MVP, hackathons and early stage products
+- Cloud build, artifacts (Google Artifacts Registry)
+- Databases on GCP are not serverless as of now (reasons can be found)
+- Railway.app is a serverless database which is cheap and charges per use are minimal
+- safest way to start a python app is in a dedicated environment
+    - python venv .venv
+    - .venv/Scripts/Activate
+- Northwind db: SQL db (can run on DB)
+- gcloud run deploy (to deploy simple applications on GCP (CloudRun), like flask)
+- rate limiting as a security measure
+- xpri.dev/build-serverless
+
 
 
